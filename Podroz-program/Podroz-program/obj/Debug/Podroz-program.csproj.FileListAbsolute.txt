@@ -1,0 +1,6 @@
+D:\RadosławKierznowski\Podroz-program\Podroz-program\bin\Debug\Podroz-program.exe.config
+D:\RadosławKierznowski\Podroz-program\Podroz-program\obj\Debug\Podroz-program.csprojResolveAssemblyReference.cache
+D:\RadosławKierznowski\Podroz-program\Podroz-program\bin\Debug\Podroz-program.exe
+D:\RadosławKierznowski\Podroz-program\Podroz-program\bin\Debug\Podroz-program.pdb
+D:\RadosławKierznowski\Podroz-program\Podroz-program\obj\Debug\Podroz-program.exe
+D:\RadosławKierznowski\Podroz-program\Podroz-program\obj\Debug\Podroz-program.pdb
